@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [ranger](https://github.com/ranger/ranger)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [ranger](https://github.com/ranger/ranger).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ranger](https://draculatheme.com/ranger).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Thales Nunes](https://github.com/thalesnunes.png?size=100)](https://github.com/thalesnunes) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Thales Nunes](https://github.com/thalesnunes) |
 
 ## License
 
