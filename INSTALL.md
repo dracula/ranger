@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/ranger/arch
 
 #### Activating theme
 
-1. Install the Dracula color theme for [Xresources](https://github.com/dracula/xresources)
+1. Install the Dracula color theme for [Xresources](https://draculatheme.com/xresources)
 
 2. Find your ranger colorschemes directory. Usually, it is located in
 `~/.config/ranger/colorschemes`.
